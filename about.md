@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Pu Xu, this is my blog, created at Feb 24 2019.
 
-### More Information
+I'm interested in robotics, more specifically, perception and manipulation.
 
-A place to include any other types of information that you'd like to include about yourself.
+I worked at [DJI](https://www.dji.com/) for more than 3 years, from 2015.7-2018.10, during the the development of Phantom  4 Series, Mavic Series, Spark, etc. 
 
-### Contact me
+I'm currently working at [XYZ Robotics](https://xyzrobotics.ai), it is a spinoff of Team MIT-Princeton in Amazon Robotics Challenge.
 
-[email@domain.com](mailto:email@domain.com)
+I'm searching for research oppurtunities, if you are intested, feel free to contact me through email [ptx.pluto@gmail.com](mailto:ptx.pluto@gmail.com).
